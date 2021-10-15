@@ -11,14 +11,14 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     var respoimage = await axios.get(config.LIZA, { responseType: 'arraybuffer' })
 
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('20210811_082543.jpg'), mimetype: Mimetype.png, caption: `*≈≈≈≈≈≈≈Links ☟︎︎︎≈≈≈≈≈≈≈≈*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('20211015_064632.png'), mimetype: Mimetype.png, caption: `*≈≈≈≈≈≈≈Links ☟︎︎︎≈≈≈≈≈≈≈≈*
  
 *owner number wa.me/917736622139*
    
-*whatsapp group : _https://tinyurl.com/ygpz5bdq_*
+*whatsapp group : _https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3_*
 
 
-*githublink       _https://github.com/pepesir/ThunderMwol_v3_*
+*githublink     : _https://github.com/pepesir/ThunderMwol_v3_*
 
     
 `}) 
