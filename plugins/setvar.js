@@ -16,7 +16,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
 
     
 
-    r_text[0] = "https://i.imgur.com/rlpkX3j.jpeg";
+    r_text[0] = "https://www.linkpicture.com/q/20211015_064632.png";
 
     
 
@@ -28,7 +28,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘SETVAR💘━━⛦
 
-𝐇𝐞𝐥𝐥𝐨 🦋 𝐈 𝐚𝐦 𝐚 Lizamwol 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨 🦋 𝐈 𝐚𝐦 𝐚 Thundermwolv3 𝐛𝐨𝐭.
 
   
 
@@ -126,15 +126,13 @@ All setvars are
 
  .setvar TAG_REPPLY:your jid 
 
-     *happy using Lizamwol bot 🧚‍♂️*
+     *happy using Thundermwolv3 bot 🧚‍♂️*
 
-*Editing And Devaloper : Nithin-Fayas*
+*Editing And Devaloper : Pepe sir*
 
 *Erorr Fixing : Fayas Ser💘*
 
-*Supporting : Black mods*
-
-*User Support : Nithin*
+*User Support : song tube group*
 
       ═════💢💢═════
 
