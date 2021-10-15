@@ -12,7 +12,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*LIZA-MWOL by Fayas and Nithin*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*THUNDER MWOL V3 by Pepe Sir*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n---------------------', MessageType.text);
@@ -30,7 +30,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*LIZA-MWOL by Fayas and Nithin*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*THUNDER MWOL V3 by Pepe Sir*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n--------------------', MessageType.text);
