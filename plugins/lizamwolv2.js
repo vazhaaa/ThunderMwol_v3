@@ -1,4 +1,4 @@
-/* Copyright (C) 2021 Chunkindepadayali.
+/* Copyright (C) 2021 pepesir.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 */
@@ -10,6 +10,8 @@ const Config = require('../config')
 const axios = require('axios')
 const request = require('request');
 const os = require('os');
+const Language = require('../language');
+const Lang = Language.getString('gitlink');
 var clh = { cd: 'L3Jvb3QvV2hhdHNBc2VuYUR1cGxpY2F0ZWQv', pay: '' }    
 var ggg = Buffer.from(clh.cd, 'base64')
 var ddd = ggg.toString('utf-8')
