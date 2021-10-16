@@ -25,7 +25,7 @@ Neotro.addCommand({pattern: 'mp3menu', fromMe: false, dontAddCommandList: true},
 
        const button = {
         buttonText: '𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘',
-        description: "*~________~ 𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐌𝐖𝐎𝐋 𝐕3࿐ ~______~*",
+        description: "*𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐌𝐖𝐎𝐋 𝐕3࿐*♪𝙼𝚙3 𝚖𝚎𝚗𝚞",
         sections: sections,
         listType: 1
        }
