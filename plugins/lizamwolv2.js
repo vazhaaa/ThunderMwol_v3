@@ -30,7 +30,7 @@ Neotro.addCommand({pattern: 'help', fromMe: false, dontAddCommandList: true}, (a
 
        const button = {
         buttonText: '𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘',
-        description: "*~________~ 𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐌𝐖𝐎𝐋 𝐕3࿐ ~______~*",
+        description: "*𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐌𝐖𝐎𝐋 𝐕3࿐*  𝙱𝚊𝚜𝚒𝚌 𝚖𝚎𝚗𝚞",
         sections: sections,
         listType: 1
        }
