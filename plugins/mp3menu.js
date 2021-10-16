@@ -46,6 +46,8 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 │   ▢ Raataan Lambiya#2
 │   ▢ Play date
 │   ▢ You are my enemy
+│   ▢ sochta hoo
+│   ▢ nwantiti remix#1
 │
 ╰──────────────────╯
   
