@@ -21,32 +21,13 @@ Project created by <a href="https://github.com/pepe">PEPE SIR</a> to make it pub
 ## Setup
 <div align="center">
 
-  ### Simple Method
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pepesir/ThunderMwol_v3) 
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
-  
+  ### Heroku Method
  
-### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/pepesir/ThunderMwol_v3
-$ cd ThunderMwol_v3
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node Liza.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/pepesir/ThunderMwol_v3
-$ cd ThunderMwol_v3
-$ npm i
-$ node Liza.js
-```
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
+
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pepesir/ThunderMwol_v3) 
+    
 
 ----
 
