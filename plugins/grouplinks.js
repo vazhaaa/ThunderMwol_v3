@@ -6,7 +6,7 @@ const Language = require('../language');
 const Lang = Language.getString('wallpaper');
 const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
-Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (message, match) => {
+Asena.addCommand({pattern: 'grouplink', fromMe: false, desc: Lang.WP}, (async (message, match) => {
 
     var r_text = new Array ();
     
