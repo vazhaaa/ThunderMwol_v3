@@ -55,11 +55,11 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 │
 │ ❑ *sᴏɴɢ ᴛᴜʙᴇ ɢʀᴏᴜᴘ ʟɪɴᴋ* : 
 │
-│https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3
+│ https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3
 │ 
 │ ❑ *ᴛʜᴜɴᴅᴇʀ ᴍᴡᴏʟ ᴏғᴄ ɢʀᴏᴜᴘ ʟɪɴᴋ* : 
 │
-│https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m
+│ https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m
 │     
 ╰──────────────────╯
   
