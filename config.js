@@ -61,7 +61,7 @@ module.exports = {
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
     YAK: process.env.YAK === undefined ? '918921483992,0' : process.env.YAK,
     OWNERSHIP: process.env.OWNER_SHIP === undefined ? 'LIZA-MWOL' : process.env.OWNER_SHIP,
-    LIZA: process.env.LOGO_LINK === undefined ? 'https://www.linkpicture.com/q/20211015_064632.png' : process.env.LOGO_LINK,
+    LIZA: process.env.LOGO_LINK === undefined ? 'https://www.linkpicture.com/en/q/IMG-20211018-WA0078.jpg' : process.env.LOGO_LINK,
     BRANCH: 'master',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
