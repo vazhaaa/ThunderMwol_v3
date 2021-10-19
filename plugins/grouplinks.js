@@ -30,4 +30,3 @@ await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: m
 `}) 
 
 })); 
-© 2021 GitHub, Inc.
