@@ -15,10 +15,10 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
  
 *owner number wa.me/917736622139*
    
-*whatsapp group : _https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3_*
+*whatsapp group : _https://tinyurl.com/yz6dm8ep_*
 
 
-*githublink     : _https://github.com/pepesir/ThunderMwol_v3_*
+*githublink     : _https://tinyurl.com/ydj599h2_*
 
     
 `}) 
