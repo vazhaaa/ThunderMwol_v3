@@ -14,9 +14,9 @@ let whb = Config.WORKTYPE == 'public' ? false : true
 WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 // send a buttons message!
     const buttons = [
-        {buttonId: 'id1', buttonText: {displayText: 'i am fine 🥰'}, type: 1},
-        {buttonId: 'id2', buttonText: {displayText: 'Do you like Bot'}, type: 1},
-        {buttonId: 'id2', buttonText: {displayText: 'Hii'}, type: 1}
+        {buttonId: 'id1', buttonText: {displayText: '.menu 🥰'}, type: 1},
+        {buttonId: 'id2', buttonText: {displayText: '.help'}, type: 1},
+        {buttonId: 'id2', buttonText: {displayText: 'hello'}, type: 1}
       ]
       
       const buttonMessage = {
