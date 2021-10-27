@@ -17,7 +17,7 @@
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "enter the password, to get password subscribe YT PEPE SIR https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA and send screenshot to https://Wa.me/+917736622139 .",
+            "description": "type anything .",
             "required": true
         },
         "LANGUAGE": {
