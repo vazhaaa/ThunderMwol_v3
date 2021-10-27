@@ -108,24 +108,6 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.green.bold('✅ Login successful!')
         );
-        console.log(
-            chalk.blueBright.italic('Confirming password...')
-        );
-        if (config.AFPLK == 'KILLADI PEPE' || config.AFPLK == 'killadi pepe' || config.AFPLK == 'Killadi pepe' || config.AFPLK == 'Killadi Pepe') {
-        //thanks to afnanplk
-        console.log(
-            chalk.green.bold('thanks for watching -key cofirmed-')
-        );
-         }
-         else if (config.AFPLK !== 'KILLADI PEPE' || config.AFPLK !== 'killadi pepe' || config.AFPLK !== 'Killadi pepe' || config.AFPLK !== 'Killadi Pepe') {
-         console.log(
-            chalk.red.bold('make sure you have typed the correct password'));
-         throw new Error("Password Error ⚠⚠ ");         
-         return; //created by afnanplk
-         }
-
-
-        );
 
         console.log(
             chalk.blueBright.italic('⬇️ Installing external plugins...')
@@ -279,8 +261,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐌𝐖𝐎𝐋 𝐕3࿐ ~______~*' +
-                                    '\n\n*🚫 ' + error + '*\n\n```Report errors\njoin https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3```'
+                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐌𝐖𝐎𝐋࿐ ~______~*' +
+                                    '\n*🚫 ' + error + '*\n```Report errors\njoin https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3\n⚠️Warning bot not allowed in the group```'
                                     , MessageType.text);
                             }
                         }
