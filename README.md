@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/pepe">PEPE SIR</a> to make it pub
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
 
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nishal2445666677/ThunderMwol_v3) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vazhaaa/ThunderMwol_v3) 
     
 
 ----
